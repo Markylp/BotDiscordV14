@@ -1,5 +1,5 @@
 module.exports = {
-  prefix: "!",
-  owner: "Bot Sahip ID",
-  token: "Bot Tokeni",
+  prefix: "ma!",
+  owner: "1083240113275932753",
+  token: "",
 }
